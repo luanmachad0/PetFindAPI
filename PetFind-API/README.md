@@ -1,5 +1,5 @@
-# NodeAPI
+# PetFindAPI
 
-API em Node.js utilizando MongoDB para cadastro de usuários, tarefas e projetos. Possui autenticação utilizando JWT.
+API em Node.js utilizando MongoDB para cadastro e listagem dos pets.
 
 
